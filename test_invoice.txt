@@ -1,0 +1,10 @@
+Invoice from Tech Solutions Inc
+Invoice Number: INV-2024-001
+Date: 2024-02-17
+Amount: $5,000
+Line Item: Software Development Services
+Quantity: 40 hours
+Rate: $125/hour
+Total: $5,000
+Payment Terms: Net 30
+Tax ID: 12-3456789
